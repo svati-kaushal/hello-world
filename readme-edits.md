@@ -1,2 +1,5 @@
 # hello-world
-practice
+
+Hello world :P
+
+I'm learning some new things
